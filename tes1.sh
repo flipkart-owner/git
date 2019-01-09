@@ -5,6 +5,4 @@ mod
 yes
 hds
 vvr
-hi
-yes
 
