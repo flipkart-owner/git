@@ -1,4 +1,8 @@
 hi today is wednesday
-today is bandh 
-iam late for class but reached
+today is bandh
+hi
+mod
+yes
+hds
+vvr
 
